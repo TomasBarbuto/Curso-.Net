@@ -1,0 +1,8 @@
+C:\Users\RYZEN\source\CursoUdemy\ELEMENTOS BASICOS DE UN PROGRAMA DE COMPUTADORAS\Seccion2\bin\Debug\Seccion2.exe.config
+C:\Users\RYZEN\source\CursoUdemy\ELEMENTOS BASICOS DE UN PROGRAMA DE COMPUTADORAS\Seccion2\bin\Debug\Seccion2.exe
+C:\Users\RYZEN\source\CursoUdemy\ELEMENTOS BASICOS DE UN PROGRAMA DE COMPUTADORAS\Seccion2\bin\Debug\Seccion2.pdb
+C:\Users\RYZEN\source\CursoUdemy\ELEMENTOS BASICOS DE UN PROGRAMA DE COMPUTADORAS\Seccion2\obj\Debug\Seccion2.csproj.AssemblyReference.cache
+C:\Users\RYZEN\source\CursoUdemy\ELEMENTOS BASICOS DE UN PROGRAMA DE COMPUTADORAS\Seccion2\obj\Debug\Seccion2.csproj.SuggestedBindingRedirects.cache
+C:\Users\RYZEN\source\CursoUdemy\ELEMENTOS BASICOS DE UN PROGRAMA DE COMPUTADORAS\Seccion2\obj\Debug\Seccion2.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\source\CursoUdemy\ELEMENTOS BASICOS DE UN PROGRAMA DE COMPUTADORAS\Seccion2\obj\Debug\Seccion2.exe
+C:\Users\RYZEN\source\CursoUdemy\ELEMENTOS BASICOS DE UN PROGRAMA DE COMPUTADORAS\Seccion2\obj\Debug\Seccion2.pdb
